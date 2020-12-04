@@ -1,2 +1,2 @@
 Hi World, I am Luan
-This is the new line in new_branch
+This is the new line in master
