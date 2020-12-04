@@ -1,3 +1,2 @@
-Edited
 Hi World, I am Luan
 This is the new line in master
